@@ -1,11 +1,12 @@
-# Data Scientist
+# Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Java, Python, Javascript, Jira, Gitlab, Jenkins, Exalead, NodeJS, Spring Boot, Junit, Sonarqube
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Master EEA/RODECO - Robotique, IA, électronique, automatique (2019 - 2021)
+- Licence EEA - Informatique, électronique, énergie électrique, automatique (2017 - 2019)
+- DUT GEII - Génie Electrique Informatique Industrielle (2015 - 2017)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

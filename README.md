@@ -3,10 +3,7 @@
 #### Technical Skills: Java, Python, Javascript, Jira, Gitlab, Jenkins, Exalead, NodeJS, Spring Boot, Junit, Sonarqube
 
 
-## Education
-- Master EEA/RODECO - Robotique, IA, électronique, automatique (2019 - 2021)
-- Licence EEA - Informatique, électronique, énergie électrique, automatique (2017 - 2019)
-- DUT GEII - Génie Electrique Informatique Industrielle (2015 - 2017)
+
 
 ## Work Experience
 **Capgemini - Ingénieur en Développement Logiciel - PLM *(Février 2022 - Maintenant)***
@@ -16,7 +13,6 @@ maintient d’environnements..)
 - Equipe à distance avec communication inter-équipes en anglais
 - Env. technique : Java, Javascript, Python, Jira, Gitlab, Jenkins, Exalead, NodeJS, Spring
 Boot, Junit, Sonarqube
-
 
 **ENAC - Ecole Nationale de l’Aviation Civile - Ingénieur R&D - Stage fin d’étude *(Avril 2021 - Octobre 2021)***
 - Prototypage d’IA pour la prediction de performance en vols
@@ -34,6 +30,11 @@ Boot, Junit, Sonarqube
 - Collaboration avec l’équipe de chargés d’affaires.
 - Conception de schémas électriques industriels pour le secteur tertiaire
 - Env. technique : AutoCAD, DIALux
+
+## Education
+- Master EEA/RODECO - Robotique, IA, électronique, automatique (2019 - 2021)
+- Licence EEA - Informatique, électronique, énergie électrique, automatique (2017 - 2019)
+- DUT GEII - Génie Electrique Informatique Industrielle (2015 - 2017)
 
 ## Certifications
 - SAFe for teams 5.1 - Scaled Agile Framework

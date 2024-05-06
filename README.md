@@ -9,7 +9,7 @@
 - DUT GEII - Génie Electrique Informatique Industrielle (2015 - 2017)
 
 ## Work Experience
-**Capgemini - Ingénieur en Développement Logiciel - PLM** *Février 2022 - Maintenant*
+**Capgemini - Ingénieur en Développement Logiciel - PLM *(Février 2022 - Maintenant)***
 - Customisation pour Airbus ACA/ADS/AH de 3DExperience par Dassault Systemes.
 - DevOps (Planification de code, écriture de tests, détection de risques, gestion de versions, déploiement,
 maintient d’environnements..)
@@ -18,7 +18,7 @@ maintient d’environnements..)
 Boot, Junit, Sonarqube
 
 
-**ENAC - Ecole Nationale de l’Aviation Civile - Ingénieur R&D - Stage fin d’étude** *(Avril 2021 - Octobre 2021)*
+**ENAC - Ecole Nationale de l’Aviation Civile - Ingénieur R&D - Stage fin d’étude *(Avril 2021 - Octobre 2021)***
 - Prototypage d’IA pour la prediction de performance en vols
 - Développement de réseaux Long Short Term Memory (LSTM)
 - Création de dataset, correction de données

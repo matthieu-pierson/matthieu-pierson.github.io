@@ -47,4 +47,4 @@ Boot, Junit, Sonarqube
 - Host serveur Apache HTTP Server - Raspberry PI
 
 ### Web scrapping - LeBonCoin, Twitch, Jira
-- Scrapping de site web pour remplir des bases de donn´ees SQL - Python, Selenium, Puppeteer
+- Scrapping de site web pour remplir des bases de données SQL - Python, Selenium, Puppeteer

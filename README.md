@@ -11,7 +11,7 @@
 ## Work Experience
 **Capgemini - Ingénieur en Développement Logiciel - PLM** *Février 2022 - Maintenant*
 - Customisation pour Airbus ACA/ADS/AH de 3DExperience par Dassault Systemes.
-- DevOps (Planification de code, ´ecriture de tests, d´etection de risques, gestion de versions, d´eploiement,
+- DevOps (Planification de code, écriture de tests, détection de risques, gestion de versions, déploiement,
 maintient d’environnements..)
 - Equipe à distance avec communication inter-équipes en anglais
 - Env. technique : Java, Javascript, Python, Jira, Gitlab, Jenkins, Exalead, NodeJS, Spring
@@ -19,10 +19,10 @@ Boot, Junit, Sonarqube
 
 
 **ENAC - Ecole Nationale de l’Aviation Civile - Ingénieur R&D - Stage fin d’étude** *(Avril 2021 - Octobre 2021)*
-• Prototypage d’IA pour la prediction de performance en vols
-• D´eveloppement de r´eseaux Long Short Term Memory (LSTM)
-• Cr´eation de dataset, correction de donn´ees
-• Env. technique : Python, Keras, PyTorch, NoSQL, Linux, Serveur de Calcul
+- Prototypage d’IA pour la prediction de performance en vols
+- Développement de réseaux Long Short Term Memory (LSTM)
+- Création de dataset, correction de données
+- Env. technique : Python, Keras, PyTorch, NoSQL, Linux, Serveur de Calcul
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

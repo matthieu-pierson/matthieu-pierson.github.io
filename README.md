@@ -40,7 +40,7 @@ Boot, Junit, Sonarqube
 - 3DEXPERIENCE Configuration and Development - Dassault Systemes
 - 3DEXPERIENCE Services Software Expert Certification - Dassault Systemes
 
-## ProjectsProjects
+## Projects
 ### Site web personnel
 - Creations de planches, design - Figma
 - Implementation en HTML, CSS, JS

@@ -9,8 +9,7 @@
 - DUT GEII - Génie Electrique Informatique Industrielle (2015 - 2017)
 
 ## Work Experience
-**Capgemini Février 2022 - Maintenant**
-- Ingénieur en Développement Logiciel - PLM
+**Capgemini - Ingénieur en Développement Logiciel - PLM** *Février 2022 - Maintenant*
 - Customisation pour Airbus ACA/ADS/AH de 3DExperience par Dassault Systemes.
 - DevOps (Planification de code, ´ecriture de tests, d´etection de risques, gestion de versions, d´eploiement,
 maintient d’environnements..)
@@ -19,9 +18,11 @@ maintient d’environnements..)
 Boot, Junit, Sonarqube
 
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**ENAC - Ecole Nationale de l’Aviation Civile - Ingénieur R&D - Stage fin d’étude** *(Avril 2021 - Octobre 2021)*
+• Prototypage d’IA pour la prediction de performance en vols
+• D´eveloppement de r´eseaux Long Short Term Memory (LSTM)
+• Cr´eation de dataset, correction de donn´ees
+• Env. technique : Python, Keras, PyTorch, NoSQL, Linux, Serveur de Calcul
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

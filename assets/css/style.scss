@@ -52,9 +52,6 @@
   .background {
     --bg: hsl(240, 100%, 10%);
     background: var(--bg);
-    position: fixed;
-    height: 100vh;
-    width: 100vw;
     transition: background 500ms;
   }
   

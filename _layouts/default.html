@@ -13,12 +13,10 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <input id="toggle" class="toggle" type="checkbox">
     <div class="background wrapper">
       <header>
-        <div>
-          <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-          <input id="toggle" class="toggle" type="checkbox">
-        </div>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />

@@ -40,15 +40,6 @@
     }
   }
   
-  // layout
-  body {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-  }
-  
   .background {
     --bg: hsl(240, 100%, 10%);
     background: var(--bg);
@@ -65,8 +56,4 @@
         --color: hsl(40, 100%, 50%);
       }
     }
-  }
-
-  body > div > header > div{
-    display: -webkit-inline-box;
   }
